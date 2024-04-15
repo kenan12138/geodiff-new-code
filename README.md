@@ -1,4 +1,4 @@
-   The original geodiff code was modified, including the environment and corresponding code, and it ran successfully. The usage environment of this code is pyg 2.1.0 py37_torch_1.11.0_cu115. Execute the following command conda install pytorch-geometric= 2.1.0=py37_torch_1.11.0_cu115 -c rusty1s -c conda-forge. For other packages, see the env.yml file.You can compare it with the original geodiff code to find the modified parts. Most modifications are in dataset.py and gin.py or other files.
+   The original geodiff code was modified, including the environment and corresponding code, and it ran successfully. The usage environment of this code is pyg 2.1.0 py37_torch_1.11.0_cu115. Execute the following command conda install pytorch-geometric= 2.1.0=py37_torch_1.11.0_cu115 -c rusty1s -c conda-forge or conda install pyg -c pyg. For other packages, see the env.yml file.You can compare it with the original geodiff code to find the modified parts. Most modifications are in dataset.py and gin.py or other files.
 
 
 
